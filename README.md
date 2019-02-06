@@ -18,5 +18,10 @@ This is a simple http service via Python script.
 
     python httpservice.py
 
+*Step5*:
+    The service starts at 8000 port by default.
+    <http://127.0.0.1:8000>.
+    
+  (You can use '--port' option to change service port)
 ## Miscellaneous
 This repository is intended as an assitant purpose for [glTFShowcase](https://www.vispolygon.com).
