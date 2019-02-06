@@ -1,8 +1,7 @@
 # Simple Http Service
-This is a simple http service by Python script.
+This is a simple http service via Python script.
 
 ## Install
----
 *Step1*: Install python - <https://www.python.org/downloads/>
 
 *Step2*: Open terminal console. In Windows, use 'cmd' command to open terminal. In iOS, open ''Terminal'' app.
@@ -20,5 +19,4 @@ This is a simple http service by Python script.
     python httpservice.py
 
 ## Miscellaneous
----
 This repository is intended as an assitant purpose for [glTFShowcase](https://www.vispolygon.com).
