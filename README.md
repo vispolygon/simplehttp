@@ -4,7 +4,7 @@ This is a simple http service via Python script.
 ## Install
 *Step1*: Install python - <https://www.python.org/downloads/>
 
-*Step2*: Open terminal console. In Windows, use 'cmd' command to open terminal. In iOS, open ''Terminal'' app.
+*Step2*: Open terminal console. In Windows, use 'cmd' command to open terminal. In MacOS, open 'Terminal' app.
 
 *Step3*: Go to this repository folder.
 
@@ -25,10 +25,10 @@ This is a simple http service via Python script.
   (You can use '--port' option to change service port)
 
 ## Credit
-"Free Sci Fi Fighter" model is by [CGPitbull](https://sketchfab.com/CGPitbull) under [Creative Common license](https://creativecommons.org/licenses/by/4.0/)
+"Free Sci Fi Fighter" model is by [CGPitbull](https://sketchfab.com/CGPitbull).
 
 ## Misc
-This repository is intended as an assitant purpose for [glTFShowcase](https://www.vispolygon.com).
+This repository is intended as an auxiliary for [glTFShowcase](https://www.vispolygon.com).
 
 
 [glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
