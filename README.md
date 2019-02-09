@@ -23,5 +23,11 @@ This is a simple http service via Python script.
     <http://127.0.0.1:8000>.
     
   (You can use '--port' option to change service port)
-## Miscellaneous
+
+## Misc
 This repository is intended as an assitant purpose for [glTFShowcase](https://www.vispolygon.com).
+
+
+[glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
+
+[Google Poly](https://poly.google.com/)
