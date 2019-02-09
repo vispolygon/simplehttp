@@ -24,6 +24,9 @@ This is a simple http service via Python script.
     
   (You can use '--port' option to change service port)
 
+## Credit
+"Free Sci Fi Fighter" model is by [CGPitbull](https://sketchfab.com/CGPitbull) under [Creative Common license](https://creativecommons.org/licenses/by/4.0/)
+
 ## Misc
 This repository is intended as an assitant purpose for [glTFShowcase](https://www.vispolygon.com).
 
